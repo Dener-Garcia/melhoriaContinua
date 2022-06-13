@@ -2,7 +2,7 @@
 
 Na industria é comum o uso de sinalizadores como lampadas, buzinas e torres que podem compor todos esses elementos em um só.
 
-![sinaleiro](/Holder-Light/Assets/torre-sinaleiro.png =x250)
+![sinaleiro](/Holder-Light/Assets/torre-sinaleiro.png =250x200)
 
 Algumas vezes precisamos efetuar uma instalação em um local que não há pontos de fixação disponíveis.
 
