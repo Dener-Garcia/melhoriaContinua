@@ -42,7 +42,7 @@ Vocẽ tem acesso aos seguintes arquivos:
 
 <img src="Assets/suporte.jpg" width="50%"/>
 
-
-
+<br>
+<br>
 
 >* [Voltar para página inicial](../README.md)
