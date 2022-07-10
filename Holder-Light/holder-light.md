@@ -1,4 +1,4 @@
-## Suporte para sinalizador do tipo torre em impressão 3D.
+## Suporte para sinalizador do tipo torre em impressão 3D
 
 Desenvolvimento de um suporte de luminária industrial utilizando impressão 3D como meio de fabricação.
 

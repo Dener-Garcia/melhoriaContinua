@@ -6,11 +6,11 @@
 
    <br>
   
-  <img align="center" src="/Holder-Light/Assets/Sinaleiro2.png" width="30%"/> 
+  <img align="center" src="/EW-roller-heater/Assets/roller.jpg" width="30%"/> 
   
-  06/2022
+  07/2022
 
-- ### [Suporte para sinalizador torre em impressão 3D](/Holder-Light/holder-light.md) 
+- ### [Suporte para sinalização com impressão 3D](/Holder-Light/holder-light.md) 
 
   Desenvolvimento de uma solução para fixar uma luminária industria tipo torre, modelado em 3D no Freecad e impresso com tecnologia FDM.
 

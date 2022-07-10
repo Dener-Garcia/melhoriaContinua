@@ -1,24 +1,31 @@
-## Rolo aquecido para EW.
+## Sistema de aquecimento para rolo alumínio EW
 
-Desenvolvimento de um suporte de luminária industrial utilizando impressão 3D como meio de fabricação.
+Instalação elétrica do sistema de aquecimento e pneumático para rolo aquecido do alumínio de uma máquina de Packaging do grupo COESIA - GD.
 
-Na industria é comum o uso de sinalizadores como lampadas, buzinas ou torres que podem compor todos esses elementos em um só, o intuito desses equipamentos é alertar ao operador alguma ação ou alarme do processo.
+A EW é uma máquina de desenvolvimento, que basicamente desenrola uma bobina de alumínio até a entrega para uma outra máquina, afim de formar a embalagem interna do produto a ser fabricado.
+
 
 <img src="/EW-roller-heater/Assets/machine.jpg"/> 
 
+Essas bobinas vem com um defeito de fabricação onde sua extremidade vem ondulada e devido a sensores na máquina essa ondulação impacta numa alta rejeição de produtos considerados conforme para o mercado. 
+
+<img src="/EW-roller-heater/Assets/defect.jpg" width="45%"/> 
+
 ### 🧩 O desafio
 
-Efetuar a instalação de um dispositivo de alerta num local que não há pontos de fixação disponíveis como paredes ou mesmo máquinas.
+Desenvolver um circuito off-board da máquina para controle de temperatura das resistências, outro ponto é o acionamento de um pistão somente no momento que a máquina girar, pois o rolo aquecido não pode ficar em contato direto com a matéria prima.
 
 ### 💡 A solução
 
-Para isso foi desenvolvido um suporte de fixação em impressão 3D que é preso em canos ou eletrodutos. 
+Para o sistema de aquecimento foi escolhido um módulo de controle de temperatura da NOVUS ligado a um termopar para a medição da temperatura, de acordo com o set-point configurado no controlador ele aciona uma saída para um relé de estado sólido este por sua vez libera tensão para a resistência.
 
-Analisar o tipo de fixação, os esforços e o peso que o suporte ira sofrer é fundamental para o exito do projeto.
+
+Em relação ao pistão pneumático, a melhor solução foi alterar o software do CLP Step7 onde lincamos o seu movimento a um bit da leitura do encoder, ou seja quando a máquina entra em funcionamento uma saída digital atrelada a leitura do encoder aciona a válvula que libera o ar para o pistão fazendo o rolo aquecido entrar em contato com o alumínio somente nesse caso.
 
 <img src="/EW-roller-heater/Assets/componentes.png" width="80%"/> 
 
-Após a modelagem em um software CAD 3D, basta efetuar a impressão em 3D e por fim temos o nosso suporte customizável e totalmente funcional.
+Diagrama de instalação elétrica seguindo os padrões do fabricante.
+
 
 Diagrama de potência                                            |  Diagrama de contole
 :----------:                                           |  :--------------:
@@ -26,12 +33,16 @@ Diagrama de potência                                            |  Diagrama de 
 
 ### 🤔 Dificuldades do projeto
 
-Modelar para impressão 3D é sempre um desafio pois alguns pontos devem ser pensados na hora do projeto, a peça não deve ter ângulos maiores de 60° para evitar suportes na peça, uma boa área de contato com a mesa de impressão é sempre necessário e principalmente pensar nos esforços que a peça vai sofrer.
+Nesse projeto a maior dificuldade foi a implantação do código direto no CLP, devido a linguagem utilizada pelo fabricante da máquina ser complexa e pouco intuitiva chamada de STL uma especie de lista de instruções parecida com a antiga assembly.
 
-<img src="/EW-roller-heater/Assets/stl.png" width="70%"/>
+
+<img src="/EW-roller-heater/Assets/stl.png" width="60%"/>
+
+A montagem também foi complexa já que há pouco espaço sobressalente no equipamento para a inserção de novos dispositivos como disjuntores, relés e cabos elétricos.
+
 
 ### 🎯 Resultado final
-Apesar de ser um objeto simples ele atende a maior função que é tornar visível de todos os ângulos facilitando ações operacionais rápidas.
+Graças ao sistema foi possível trabalhar com bobinas que antes iriam para refugo, tornado a máquina mais eficiente contribuindo para um aumento de OEE do equipamento.
 
 <img src="/EW-roller-heater/Assets/roller.jpg" width="50%"/>
 
@@ -40,7 +51,7 @@ Apesar de ser um objeto simples ele atende a maior função que é tornar visív
 
 ## 🙏🏻 Agradecimentos
 
-A parceria no projeto entre meu colega e técnico mecânico Michael foi impresidivel para a eficácia do projeto, já que ele desenvolveu todo o sistema mecânico como rolos, suportes, acionamentos demais ajustes pertinentes.
+A parceria no projeto entre meu colega e técnico mecânico Michael foi imprescindível para a eficácia do projeto, já que ele desenvolveu todo o sistema mecânico como rolos, suportes, acionamentos demais e ajustes pertinentes.
 
 <br>
 <br>
