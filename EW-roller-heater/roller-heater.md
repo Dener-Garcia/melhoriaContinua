@@ -51,7 +51,9 @@ Graças ao sistema foi possível trabalhar com bobinas que antes iriam para refu
 
 ## 🙏🏻 Agradecimentos
 
-A parceria no projeto entre meu colega e técnico mecânico Michael foi imprescindível para a eficácia do projeto, já que ele desenvolveu todo o sistema mecânico como rolos, suportes, acionamentos demais e ajustes pertinentes.
+A parceria no projeto entre meu colega e técnico mecânico Michael foi imprescindível para a eficácia do projeto, já que ele desenvolveu todo o sistema mecânico como rolos, suportes, acionamentos e demais ajustes pertinentes.
+
+[Michael Silva](https://www.linkedin.com/in/michael-silva-37370520b/)
 
 <br>
 <br>
