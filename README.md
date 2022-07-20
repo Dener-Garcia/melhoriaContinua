@@ -1,9 +1,9 @@
 # Projetos executados
-
+<div align="center">
 - ### [Rolo aquecido para EW](/EW-roller-heater/roller-heater.md) 
 
   Desenvolvimento de uma solução para fixar uma luminária industria tipo torre, modelado em 3D no Freecad e impresso com tecnologia FDM.
-
+</div>
    <br>
   
   <img align="center" src="/EW-roller-heater/Assets/roller.jpg" width="30%"/> 
