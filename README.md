@@ -20,6 +20,16 @@
   
   06/2022
 
+- ### [Controle fitilho digital W10001](tear-tape-w1000/tear-tape.md) 
+
+  Projeto de melhoria no sistema de controle fitiilho digital da máquina de embalagens W1000 COESIA - GD.
+
+   <br>
+  
+  <img src="/tear-tape-w1000/Assets/sensor.jpg" width="30%"/>
+  
+  02/2022
+
 
 - ### [Suporte para documentação técnica em chapa metálica](Support-electrical-diagrams/holder-man.md)
 
