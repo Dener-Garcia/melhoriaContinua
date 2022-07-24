@@ -20,7 +20,7 @@
   
   06/2022
 
-- ### [Controle fitilho digital W10001](tear-tape-w1000/tear-tape.md) 
+- ### [Controle fitilho digital W1000](tear-tape-w1000/tear-tape.md) 
 
   Projeto de melhoria no sistema de controle fitiilho digital da máquina de embalagens W1000 COESIA - GD.
 
