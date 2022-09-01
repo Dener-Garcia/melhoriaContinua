@@ -2,7 +2,7 @@
   
 - ### [Rolo aquecido para EW](/EW-roller-heater/roller-heater.md) 
 
-  Desenvolvimento de uma solução para fixar uma luminária industria tipo torre, modelado em 3D no Freecad e impresso com tecnologia FDM.
+  Projeto elétrico do sistema de aquecimento e pneumático para rolo aquecido do alumínio de uma máquina de Packaging do grupo COESIA - GD.
 
    <br>
   
