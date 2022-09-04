@@ -33,7 +33,7 @@ Diagrama de potência                                            |  Diagrama de 
 
 ### 🤔 Dificuldades do projeto
 
-Nesse projeto a maior dificuldade foi a implantação do código direto no CLP, devido a linguagem utilizada pelo fabricante da máquina ser complexa e pouco intuitiva chamada de STL uma especie de lista de instruções parecida com a antiga assembly.
+Nesse projeto a maior dificuldade foi a implementação do código direto no CLP, devido a linguagem utilizada pelo fabricante da máquina ser complexa e pouco intuitiva chamada de STL uma especie de lista de instruções parecida com a antiga assembly.
 
 
 <img src="/EW-roller-heater/Assets/stl.png" width="60%"/>

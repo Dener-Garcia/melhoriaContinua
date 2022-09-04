@@ -1,5 +1,15 @@
 # Projetos executados
+
+- ### [Automação abertura transportador Nano 8](/Nano8-transportador-tabaco/Transportador-Abertura.md) 
+
+  Projeto para automação do transportador de tabaco da Maker Decouflé Nano 8.
+
+   <br>
   
+  <img align="center" src="/Nano8-transportador-tabaco/Assets/botoeiras2.jpg" width="30%"/> 
+  
+  09/2022
+
 - ### [Rolo aquecido para EW](/EW-roller-heater/roller-heater.md) 
 
   Projeto elétrico do sistema de aquecimento e pneumático para rolo aquecido do alumínio de uma máquina de Packaging do grupo COESIA - GD.
