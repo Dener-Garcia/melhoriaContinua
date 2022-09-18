@@ -22,7 +22,7 @@
 
 - ### [Suporte para sinalização com impressão 3D](/Holder-Light/holder-light.md) 
 
-  Desenvolvimento de uma solução para fixar uma luminária industria tipo torre, modelado em 3D no Freecad e impresso com tecnologia FDM.
+  Solucionar problemas atraves damanufatura aditiva para fixar uma luminária industrial do tipo torre, modelagem feita em 3D feito no Freecad um poderoso software open source a impressao foi realizada com a com tecnologia FDM devido o custo beneficio.
 
    <br>
   
