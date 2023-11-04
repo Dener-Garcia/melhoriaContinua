@@ -46,6 +46,7 @@
 ## ⚠️ aviso
 ## 💬 pensamento ou escrita comentarios
 ## 💥 explosao
+## 🔥 fogo
 
 
 
