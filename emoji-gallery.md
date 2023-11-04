@@ -31,6 +31,8 @@
 ## 🕵️‍♂️ homem qa
 ## 👩‍🎨 mulher design
 ## 👨‍🎨 homem design
+## 👨‍💻 homem dev
+## 👩‍💻 mulher dev
 ## 🎯 alvo na mosca
 ## 🎲 dado
 ## 🧩 quebra cabeaca
